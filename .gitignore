@@ -25,3 +25,4 @@ var
 etc/*.conf
 etc/vhosts/*.conf
 src/ade25.fabfiles
+.DS_Store
