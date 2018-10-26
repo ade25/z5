@@ -20,13 +20,13 @@ env.use_ssh_config = True
 env.forward_agent = True
 env.port = '22222'
 env.user = 'root'
-env.hostname = 'z4'
+env.hostname = 'z5'
 env.code_user = 'root'
 env.prod_user = 'www'
 env.webserver = '/opt/webserver/buildout.webserver'
 env.code_root = '/opt/webserver/buildout.webserver'
 env.host_root = '/opt/sites'
-env.local_dir = '/Users/cb/ops/z4'
+env.local_dir = '/Users/cb/ops/z5'
 
 env.hosts = ['z4.ade25.de']
 env.hosted_sites = {
