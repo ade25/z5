@@ -1,5 +1,4 @@
-Setup webserver buildout
-========================
+# Setup webserver buildout
 
 We strive to establish a general working environment and therefore provide
 this "best practice" information. In order to make a webserver buildout
@@ -7,10 +6,9 @@ usable in your local development environment you only need to follow a few
 simple steps:
 
 
-Requirements
-------------
+## Requirements
 
-All interaction is based on the push deployment tool Fabric. In order to 
+All interaction is based on the push deployment tool Fabric. In order to
 bootstrap you local directory you need to setup a virtual environment and
 install a few dependencies
 
@@ -46,8 +44,7 @@ $ bin/buildout -c development.cfg
 ```
 
 
-Usage
-=====
+## Usage
 
 In order to work with your webserver configuration and deployment setup you
 need to have the *venv* always activated and local fabfiles already built.
