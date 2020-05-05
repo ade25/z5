@@ -6,82 +6,10 @@
   "haproxy": "${component-versions:haproxy}",
   "sites": [
     {
-      "title": "${site1:sitename}",
-      "type": "plone",
-      "port": "${site1:zope-port}",
-      "url": "${site1:servername}"
-    },
-    {
-      "title": "${site2:sitename}",
-      "type": "plone",
-      "port": "${site2:zope-port}",
-      "url": "${site2:servername}"
-    },
-    {
-      "title": "${site3:sitename}",
-      "type": "plone",
-      "port": "${site3:zope-port}",
-      "url": "${site3:servername}"
-    },
-    {
-      "title": "${site4:sitename}",
-      "type": "plone",
-      "port": "${site4:zope-port}",
-      "url": "${site4:servername}"
-    },
-    {
-      "title": "${site5:sitename}",
-      "type": "plone",
-      "port": "${site5:zope-port}",
-      "url": "${site5:servername}"
-    },
-    {
-      "title": "${site6:sitename}",
-      "type": "plone",
-      "port": "${site6:zope-port}",
-      "url": "${site6:servername}"
-    },
-    {
-      "title": "${site7:sitename}",
-      "type": "plone",
-      "port": "${site7:zope-port}",
-      "url": "${site7:servername}"
-    },
-    {
-      "title": "${site8:sitename}",
-      "type": "plone",
-      "port": "${site8:zope-port}",
-      "url": "${site8:servername}"
-    },
-    {
       "title": "${site9:sitename}",
       "type": "plone",
       "port": "${site9:zope-port}",
       "url": "${site9:servername}"
-    },
-    {
-      "title": "${site10:sitename}",
-      "type": "plone",
-      "port": "${site10:zope-port}",
-      "url": "${site10:servername}"
-    },
-    {
-      "title": "${site11:sitename}",
-      "type": "plone",
-      "port": "${site11:zope-port}",
-      "url": "${site11:servername}"
-    },
-    {
-      "title": "${site12:sitename}",
-      "type": "plone",
-      "port": "${site12:zope-port}",
-      "url": "${site12:servername}"
-    },
-    {
-      "title": "${site13:sitename}",
-      "type": "plone",
-      "port": "${site13:zope-port}",
-      "url": "${site13:servername}"
     },
     {
       "title": "${site14:sitename}",
@@ -94,12 +22,6 @@
       "type": "plone",
       "port": "${site15:zope-port}",
       "url": "${site15:servername}"
-    },
-    {
-      "title": "${site16:sitename}",
-      "type": "plone",
-      "port": "${site16:zope-port}",
-      "url": "${site16:servername}"
     }
   ]
 }
